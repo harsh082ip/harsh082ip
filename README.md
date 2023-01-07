@@ -1,3 +1,4 @@
+![logo](https://github.com/harsh082ip/harsh082ip/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate Computer Science Undergrad, from India</h3>
 
