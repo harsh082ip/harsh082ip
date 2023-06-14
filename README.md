@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh082ip&label=Profile%20views&color=0e75b6&style=flat" alt="harsh082ip" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **JAVA, C/C++, HTML, CSS, JAVASCRIPT, PYTHON**
+- 💬 Ask me about **Dart, JAVA, C/C++, HTML, CSS, JAVASCRIPT, PYTHON**
 
 - 📫 How to reach me **harshhvstech1975@gmail.com**
 
