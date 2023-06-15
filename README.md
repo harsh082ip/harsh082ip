@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshhvstech1975@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B9rtTmufO5BnaXwklyILHf4j1K4206Rh/view?usp=share_link](https://drive.google.com/file/d/1B9rtTmufO5BnaXwklyILHf4j1K4206Rh/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W-nivTUkmibdkKC49_b-t3eEGRO-3Wtr/view?usp=sharing](https://drive.google.com/file/d/1W-nivTUkmibdkKC49_b-t3eEGRO-3Wtr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😅**
 
