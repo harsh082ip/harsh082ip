@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm HARSH VARDHAN SINGH</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh082ip&label=Profile%20views&color=0e75b6&style=flat" alt="harsh082ip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh082ip" alt="harsh082ip" /></a> </p>
@@ -28,9 +29,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsh082ip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh082ip" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@harsh082" target="blank"><img align="center" src="https://github.com/harsh082ip/harsh082ip/assets/109286547/767a9c4b-b55d-4eb6-b73d-b044bb216208" alt="@harsh082" height="40" width="40" /></a>
+  <a href="https://instagram.com/coolboyharsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coolboyharsh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-vardhan-singh-35852a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-vardhan-singh-35852a252/" height="30" width="40" /></a>
-<a href="https://instagram.com/coolboyharsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coolboyharsh_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@harsh082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harsh082" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
